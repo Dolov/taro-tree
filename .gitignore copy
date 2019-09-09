@@ -1,9 +1,0 @@
-dist/
-.temp/
-.rn_temp/
-node_modules/
-.DS_Store
-.history
-yarn-error.log
-lib/
-dist-tmp
