@@ -1,1 +1,4 @@
-export { default as Tree } from './components/Tree'
+import TreeSelect from './components'
+
+
+export default TreeSelect
