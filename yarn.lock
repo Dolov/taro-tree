@@ -8146,6 +8146,29 @@ tar@^4:
     safe-buffer "^5.1.2"
     yallist "^3.0.3"
 
+taro-tree@^1.0.1:
+  version "1.0.1"
+  resolved "https://registry.npmjs.org/taro-tree/-/taro-tree-1.0.1.tgz#5c654e6e39646d8eb38b0e014789dbdf661dd9af"
+  integrity sha512-X41BtBzQ5VmSRr+yEQMZky0DA4B/skpMTJ/RTUahqFq/MwvViGFLgtJwTcG730aBat0iz5m8doe+mLnA8cwqHA==
+  dependencies:
+    "@tarojs/async-await" "1.3.13"
+    "@tarojs/components" "1.3.13"
+    "@tarojs/redux" "1.3.13"
+    "@tarojs/redux-h5" "1.3.13"
+    "@tarojs/router" "1.3.13"
+    "@tarojs/taro" "1.3.13"
+    "@tarojs/taro-alipay" "1.3.13"
+    "@tarojs/taro-h5" "1.3.13"
+    "@tarojs/taro-swan" "1.3.13"
+    "@tarojs/taro-tt" "1.3.13"
+    "@tarojs/taro-weapp" "1.3.13"
+    nerv-devtools "^1.4.0"
+    nervjs "^1.4.0"
+    redux "^4.0.0"
+    redux-logger "^3.0.6"
+    redux-thunk "^2.3.0"
+    taro-ui "^2.2.2"
+
 taro-ui@^2.2.2:
   version "2.2.2"
   resolved "http://registry.npm.successchannel.tech/taro-ui/download/taro-ui-2.2.2.tgz#485847ed2ac2343c394477b25bbea439e0adc03d"
