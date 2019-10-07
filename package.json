@@ -1,6 +1,6 @@
 {
   "name": "taro-tree",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "private": false,
   "description": "基于 taro 的 Tree 组件,适用于小程序、h5",
   "templateInfo": {
