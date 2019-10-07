@@ -1,8 +1,7 @@
 import { ComponentClass } from 'react'
 import Taro, { Component, Config } from '@tarojs/taro'
 import { View, Button, Text } from '@tarojs/components'
-// import Tree from '../../components'
-import Tree from 'taro-tree'
+import Tree from '../../components'
 
 import './index.scss'
 
