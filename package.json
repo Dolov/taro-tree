@@ -1,5 +1,5 @@
 {
-  "name": "taro-tree",
+  "name": "taro-tree-123",
   "version": "1.0.3",
   "private": false,
   "description": "基于 taro 的 Tree 组件,适用于小程序、h5",
@@ -47,7 +47,7 @@
     "redux": "^4.0.0",
     "redux-logger": "^3.0.6",
     "redux-thunk": "^2.3.0",
-    "taro-tree": "^1.0.2",
+    "taro-tree": "^1.0.3",
     "taro-ui": "^2.2.2"
   },
   "devDependencies": {
