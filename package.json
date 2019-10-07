@@ -8,6 +8,7 @@
     "typescript": true,
     "css": "sass"
   },
+  "main": "dist/index.js",
   "files": [
     "dist",
     "@types"
@@ -46,7 +47,7 @@
     "redux": "^4.0.0",
     "redux-logger": "^3.0.6",
     "redux-thunk": "^2.3.0",
-    "taro-tree": "^1.0.1",
+    "taro-tree": "^1.0.2",
     "taro-ui": "^2.2.2"
   },
   "devDependencies": {
