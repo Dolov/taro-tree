@@ -25,6 +25,7 @@
     value: 'fruit',
     isLeaf: true,    // 是否有子节点
     disabled: true,   // 是否禁用
+    children: [],   // 子节点
   }]
 ```
 
