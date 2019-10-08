@@ -8,6 +8,10 @@
     "typescript": true,
     "css": "sass"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Dolov/taro-tree"
+  },
   "main": "dist/index.js",
   "files": [
     "dist",
