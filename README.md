@@ -13,7 +13,6 @@
 | value | 选中值 | 多选情况下为数组 （必填） |  |
 | onChange | 选中的回调 | function （必填） |  |
 | multiple | 多选 | boolean | false |
-| multiple | 多选 | boolean | false |
 | loadData | 异步加载数据 | function，返回值需要为 promise 对象 |  |
 
 
