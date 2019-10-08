@@ -2,8 +2,8 @@
 基于 taro 的 Tree 组件，可用于小程序、h5
 
 ## 🔨示例
-<img src="./image/radio.png" width="300" />
-<img src="./image/multiselect.png" width="300" />
+<img src="./image/radio.png" width="300" /><img style="margin-left:50px" src="./image/multiselect.png" width="300" />
+
 
 
 ## 🍭 API
