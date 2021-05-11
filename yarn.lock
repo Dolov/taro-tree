@@ -4041,9 +4041,9 @@ home-or-tmp@^2.0.0:
     os-tmpdir "^1.0.1"
 
 hosted-git-info@^2.1.4:
-  version "2.8.4"
-  resolved "http://registry.npm.successchannel.tech/hosted-git-info/download/hosted-git-info-2.8.4.tgz#44119abaf4bc64692a16ace34700fed9c03e2546"
-  integrity sha1-RBGauvS8ZGkqFqzjRwD+2cA+JUY=
+  version "2.8.9"
+  resolved "https://registry.yarnpkg.com/hosted-git-info/-/hosted-git-info-2.8.9.tgz#dffc0bf9a21c02209090f2aa69429e1414daf3f9"
+  integrity sha512-mxIDAb9Lsm6DoOJ7xH+5+X4y1LU/4Hi50L9C5sIswK3JzULS4bwk1FvjdBgvYR4bzT4tuUQiC15FE2f5HbLvYw==
 
 hpack.js@^2.1.6:
   version "2.1.6"
@@ -8145,101 +8145,6 @@ tar@^4:
     mkdirp "^0.5.0"
     safe-buffer "^5.1.2"
     yallist "^3.0.3"
-
-taro-tree@^1.0.1:
-  version "1.0.1"
-  resolved "https://registry.npmjs.org/taro-tree/-/taro-tree-1.0.1.tgz#5c654e6e39646d8eb38b0e014789dbdf661dd9af"
-  integrity sha512-X41BtBzQ5VmSRr+yEQMZky0DA4B/skpMTJ/RTUahqFq/MwvViGFLgtJwTcG730aBat0iz5m8doe+mLnA8cwqHA==
-  dependencies:
-    "@tarojs/async-await" "1.3.13"
-    "@tarojs/components" "1.3.13"
-    "@tarojs/redux" "1.3.13"
-    "@tarojs/redux-h5" "1.3.13"
-    "@tarojs/router" "1.3.13"
-    "@tarojs/taro" "1.3.13"
-    "@tarojs/taro-alipay" "1.3.13"
-    "@tarojs/taro-h5" "1.3.13"
-    "@tarojs/taro-swan" "1.3.13"
-    "@tarojs/taro-tt" "1.3.13"
-    "@tarojs/taro-weapp" "1.3.13"
-    nerv-devtools "^1.4.0"
-    nervjs "^1.4.0"
-    redux "^4.0.0"
-    redux-logger "^3.0.6"
-    redux-thunk "^2.3.0"
-    taro-ui "^2.2.2"
-
-taro-tree@^1.0.2:
-  version "1.0.2"
-  resolved "https://registry.npmjs.org/taro-tree/-/taro-tree-1.0.2.tgz#2aba967215b1c6799bf5140d47435c21217453e7"
-  integrity sha512-UyBvUh08aJeyugl2CmmY+fcS1Ek8ojZK1ayrpNfLPqwpk0DcX2OBeJHGMdKIDwSwdgvu/F98JWqHfxU6TAYHQw==
-  dependencies:
-    "@tarojs/async-await" "1.3.13"
-    "@tarojs/components" "1.3.13"
-    "@tarojs/redux" "1.3.13"
-    "@tarojs/redux-h5" "1.3.13"
-    "@tarojs/router" "1.3.13"
-    "@tarojs/taro" "1.3.13"
-    "@tarojs/taro-alipay" "1.3.13"
-    "@tarojs/taro-h5" "1.3.13"
-    "@tarojs/taro-swan" "1.3.13"
-    "@tarojs/taro-tt" "1.3.13"
-    "@tarojs/taro-weapp" "1.3.13"
-    nerv-devtools "^1.4.0"
-    nervjs "^1.4.0"
-    redux "^4.0.0"
-    redux-logger "^3.0.6"
-    redux-thunk "^2.3.0"
-    taro-tree "^1.0.1"
-    taro-ui "^2.2.2"
-
-taro-tree@^1.0.3:
-  version "1.0.3"
-  resolved "https://registry.npmjs.org/taro-tree/-/taro-tree-1.0.3.tgz#04a6ea487b0fcc754da486b88f0debc582131a38"
-  integrity sha512-EK47rYELMXXBPzoHVXLVxp9+wLzz76kClnoWt6ARAjHO8ELIlYSqu081ggI2aAAIGnBRiMsJ169HfLTf3lYRTw==
-  dependencies:
-    "@tarojs/async-await" "1.3.13"
-    "@tarojs/components" "1.3.13"
-    "@tarojs/redux" "1.3.13"
-    "@tarojs/redux-h5" "1.3.13"
-    "@tarojs/router" "1.3.13"
-    "@tarojs/taro" "1.3.13"
-    "@tarojs/taro-alipay" "1.3.13"
-    "@tarojs/taro-h5" "1.3.13"
-    "@tarojs/taro-swan" "1.3.13"
-    "@tarojs/taro-tt" "1.3.13"
-    "@tarojs/taro-weapp" "1.3.13"
-    nerv-devtools "^1.4.0"
-    nervjs "^1.4.0"
-    redux "^4.0.0"
-    redux-logger "^3.0.6"
-    redux-thunk "^2.3.0"
-    taro-tree "^1.0.2"
-    taro-ui "^2.2.2"
-
-taro-tree@^1.0.5:
-  version "1.0.5"
-  resolved "https://registry.npmjs.org/taro-tree/-/taro-tree-1.0.5.tgz#8586f9a7d4da61ab20ed276c92be7282654b274c"
-  integrity sha512-+A6e0anmjZUjhSf+tF9xP2bpnAcqmc5FdwsPzSNaW4wUPNrS6zOOp/T4t9YxwLwwuZIVz8yJtqNCV4rsUup7vw==
-  dependencies:
-    "@tarojs/async-await" "1.3.13"
-    "@tarojs/components" "1.3.13"
-    "@tarojs/redux" "1.3.13"
-    "@tarojs/redux-h5" "1.3.13"
-    "@tarojs/router" "1.3.13"
-    "@tarojs/taro" "1.3.13"
-    "@tarojs/taro-alipay" "1.3.13"
-    "@tarojs/taro-h5" "1.3.13"
-    "@tarojs/taro-swan" "1.3.13"
-    "@tarojs/taro-tt" "1.3.13"
-    "@tarojs/taro-weapp" "1.3.13"
-    nerv-devtools "^1.4.0"
-    nervjs "^1.4.0"
-    redux "^4.0.0"
-    redux-logger "^3.0.6"
-    redux-thunk "^2.3.0"
-    taro-tree "^1.0.3"
-    taro-ui "^2.2.2"
 
 taro-ui@^2.2.2:
   version "2.2.2"
