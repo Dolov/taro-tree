@@ -1756,9 +1756,9 @@ browserslist@^3.2.6, browserslist@^3.2.8:
     electron-to-chromium "^1.3.47"
 
 buffer-from@^1.0.0:
-  version "1.1.1"
-  resolved "http://registry.npm.successchannel.tech/buffer-from/download/buffer-from-1.1.1.tgz#32713bc028f75c02fdb710d7c7bcec1f2c6070ef"
-  integrity sha1-MnE7wCj3XAL9txDXx7zsHyxgcO8=
+  version "1.1.2"
+  resolved "https://registry.yarnpkg.com/buffer-from/-/buffer-from-1.1.2.tgz#2b146a6fd72e80b4f55d255f35ed59a3a9a41bd5"
+  integrity sha512-E+XQCRwSbaaiChtv6k6Dwgc+bx+Bs6vuKJHHl5kox/BaKbhiXzqQOwK4cO22yElGp2OCmjwVhT3HmxgyPGnJfQ==
 
 buffer-indexof@^1.0.0:
   version "1.1.1"
@@ -2189,9 +2189,9 @@ commander@2.17.x:
   integrity sha1-vXerfebelCBc6sxy8XFtKfIKd78=
 
 commander@^2.20.0, commander@~2.20.0:
-  version "2.20.0"
-  resolved "http://registry.npm.successchannel.tech/commander/download/commander-2.20.0.tgz#d58bb2b5c1ee8f87b0d340027e9e94e222c5a422"
-  integrity sha1-1YuytcHuj4ew00ACfp6U4iLFpCI=
+  version "2.20.3"
+  resolved "https://registry.yarnpkg.com/commander/-/commander-2.20.3.tgz#fd485e84c03eb4881c20722ba48035e8531aeb33"
+  integrity sha512-GpVkmM8vF2vQUkj2LvZmD35JxeJOLCwJ9cUkugyk2nuhbv3+mJvpLYYt+0+USMxE+oj+ey/lJEnhZw75x/OMcQ==
 
 commander@~2.13.0:
   version "2.13.0"
@@ -7637,9 +7637,9 @@ source-map-support@^0.4.15:
     source-map "^0.5.6"
 
 source-map-support@~0.5.12:
-  version "0.5.13"
-  resolved "http://registry.npm.successchannel.tech/source-map-support/download/source-map-support-0.5.13.tgz#31b24a9c2e73c2de85066c0feb7d44767ed52932"
-  integrity sha1-MbJKnC5zwt6FBmwP631Edn7VKTI=
+  version "0.5.21"
+  resolved "https://registry.yarnpkg.com/source-map-support/-/source-map-support-0.5.21.tgz#04fe7c7f9e1ed2d662233c28cb2b35b9f63f6e4f"
+  integrity sha512-uBHU3L3czsIyYXKX88fdrGovxdSCoTGDRZ6SYXtSRxLZUzHg5P/66Ht6uoUlHu9EZod+inXhKo3qQgwXUT/y1w==
   dependencies:
     buffer-from "^1.0.0"
     source-map "^0.6.0"
@@ -7670,8 +7670,8 @@ source-map@^0.5.0, source-map@^0.5.3, source-map@^0.5.6, source-map@^0.5.7:
 
 source-map@^0.6.0, source-map@^0.6.1, source-map@~0.6.0, source-map@~0.6.1:
   version "0.6.1"
-  resolved "http://registry.npm.successchannel.tech/source-map/download/source-map-0.6.1.tgz#74722af32e9614e9c287a8d0bbde48b5e2f1a263"
-  integrity sha1-dHIq8y6WFOnCh6jQu95IteLxomM=
+  resolved "https://registry.yarnpkg.com/source-map/-/source-map-0.6.1.tgz#74722af32e9614e9c287a8d0bbde48b5e2f1a263"
+  integrity sha512-UjgapumWlbMhkBgzT7Ykc5YXUT46F0iKu8SGXq0bcwP5dz/h0Plj6enJqjz1Zbq2l5WaqYnrVbwWOWMyF3F47g==
 
 spdx-correct@^3.0.0:
   version "3.1.0"
@@ -8146,101 +8146,6 @@ tar@^4:
     safe-buffer "^5.1.2"
     yallist "^3.0.3"
 
-taro-tree@^1.0.1:
-  version "1.0.1"
-  resolved "https://registry.npmjs.org/taro-tree/-/taro-tree-1.0.1.tgz#5c654e6e39646d8eb38b0e014789dbdf661dd9af"
-  integrity sha512-X41BtBzQ5VmSRr+yEQMZky0DA4B/skpMTJ/RTUahqFq/MwvViGFLgtJwTcG730aBat0iz5m8doe+mLnA8cwqHA==
-  dependencies:
-    "@tarojs/async-await" "1.3.13"
-    "@tarojs/components" "1.3.13"
-    "@tarojs/redux" "1.3.13"
-    "@tarojs/redux-h5" "1.3.13"
-    "@tarojs/router" "1.3.13"
-    "@tarojs/taro" "1.3.13"
-    "@tarojs/taro-alipay" "1.3.13"
-    "@tarojs/taro-h5" "1.3.13"
-    "@tarojs/taro-swan" "1.3.13"
-    "@tarojs/taro-tt" "1.3.13"
-    "@tarojs/taro-weapp" "1.3.13"
-    nerv-devtools "^1.4.0"
-    nervjs "^1.4.0"
-    redux "^4.0.0"
-    redux-logger "^3.0.6"
-    redux-thunk "^2.3.0"
-    taro-ui "^2.2.2"
-
-taro-tree@^1.0.2:
-  version "1.0.2"
-  resolved "https://registry.npmjs.org/taro-tree/-/taro-tree-1.0.2.tgz#2aba967215b1c6799bf5140d47435c21217453e7"
-  integrity sha512-UyBvUh08aJeyugl2CmmY+fcS1Ek8ojZK1ayrpNfLPqwpk0DcX2OBeJHGMdKIDwSwdgvu/F98JWqHfxU6TAYHQw==
-  dependencies:
-    "@tarojs/async-await" "1.3.13"
-    "@tarojs/components" "1.3.13"
-    "@tarojs/redux" "1.3.13"
-    "@tarojs/redux-h5" "1.3.13"
-    "@tarojs/router" "1.3.13"
-    "@tarojs/taro" "1.3.13"
-    "@tarojs/taro-alipay" "1.3.13"
-    "@tarojs/taro-h5" "1.3.13"
-    "@tarojs/taro-swan" "1.3.13"
-    "@tarojs/taro-tt" "1.3.13"
-    "@tarojs/taro-weapp" "1.3.13"
-    nerv-devtools "^1.4.0"
-    nervjs "^1.4.0"
-    redux "^4.0.0"
-    redux-logger "^3.0.6"
-    redux-thunk "^2.3.0"
-    taro-tree "^1.0.1"
-    taro-ui "^2.2.2"
-
-taro-tree@^1.0.3:
-  version "1.0.3"
-  resolved "https://registry.npmjs.org/taro-tree/-/taro-tree-1.0.3.tgz#04a6ea487b0fcc754da486b88f0debc582131a38"
-  integrity sha512-EK47rYELMXXBPzoHVXLVxp9+wLzz76kClnoWt6ARAjHO8ELIlYSqu081ggI2aAAIGnBRiMsJ169HfLTf3lYRTw==
-  dependencies:
-    "@tarojs/async-await" "1.3.13"
-    "@tarojs/components" "1.3.13"
-    "@tarojs/redux" "1.3.13"
-    "@tarojs/redux-h5" "1.3.13"
-    "@tarojs/router" "1.3.13"
-    "@tarojs/taro" "1.3.13"
-    "@tarojs/taro-alipay" "1.3.13"
-    "@tarojs/taro-h5" "1.3.13"
-    "@tarojs/taro-swan" "1.3.13"
-    "@tarojs/taro-tt" "1.3.13"
-    "@tarojs/taro-weapp" "1.3.13"
-    nerv-devtools "^1.4.0"
-    nervjs "^1.4.0"
-    redux "^4.0.0"
-    redux-logger "^3.0.6"
-    redux-thunk "^2.3.0"
-    taro-tree "^1.0.2"
-    taro-ui "^2.2.2"
-
-taro-tree@^1.0.5:
-  version "1.0.5"
-  resolved "https://registry.npmjs.org/taro-tree/-/taro-tree-1.0.5.tgz#8586f9a7d4da61ab20ed276c92be7282654b274c"
-  integrity sha512-+A6e0anmjZUjhSf+tF9xP2bpnAcqmc5FdwsPzSNaW4wUPNrS6zOOp/T4t9YxwLwwuZIVz8yJtqNCV4rsUup7vw==
-  dependencies:
-    "@tarojs/async-await" "1.3.13"
-    "@tarojs/components" "1.3.13"
-    "@tarojs/redux" "1.3.13"
-    "@tarojs/redux-h5" "1.3.13"
-    "@tarojs/router" "1.3.13"
-    "@tarojs/taro" "1.3.13"
-    "@tarojs/taro-alipay" "1.3.13"
-    "@tarojs/taro-h5" "1.3.13"
-    "@tarojs/taro-swan" "1.3.13"
-    "@tarojs/taro-tt" "1.3.13"
-    "@tarojs/taro-weapp" "1.3.13"
-    nerv-devtools "^1.4.0"
-    nervjs "^1.4.0"
-    redux "^4.0.0"
-    redux-logger "^3.0.6"
-    redux-thunk "^2.3.0"
-    taro-tree "^1.0.3"
-    taro-ui "^2.2.2"
-
 taro-ui@^2.2.2:
   version "2.2.2"
   resolved "http://registry.npm.successchannel.tech/taro-ui/download/taro-ui-2.2.2.tgz#485847ed2ac2343c394477b25bbea439e0adc03d"
@@ -8269,9 +8174,9 @@ terser-webpack-plugin@^1.1.0:
     worker-farm "^1.7.0"
 
 terser@^4.1.2:
-  version "4.3.0"
-  resolved "http://registry.npm.successchannel.tech/terser/download/terser-4.3.0.tgz#0259070576ff34d89c5cd2b8d91055cdce0212d5"
-  integrity sha1-AlkHBXb/NNicXNK42RBVzc4CEtU=
+  version "4.8.1"
+  resolved "https://registry.yarnpkg.com/terser/-/terser-4.8.1.tgz#a00e5634562de2239fd404c649051bf6fc21144f"
+  integrity sha512-4GnLC0x667eJG0ewJTa6z/yXrbLGv80D9Ru6HIpCQmO+Q4PfEtBFi0ObSckqwL6VyQv/7ENJieXHo2ANmdQwgw==
   dependencies:
     commander "^2.20.0"
     source-map "~0.6.1"
